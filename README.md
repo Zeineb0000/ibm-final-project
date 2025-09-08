@@ -15,3 +15,5 @@ Make script executable and run:
 ```bash
 chmod +x simple-interest.sh
 ./simple-interest.sh 1000 5 3
+## Author
+**zeineb abss** — [@Zeineb0000](https://github.com/Zeineb0000)

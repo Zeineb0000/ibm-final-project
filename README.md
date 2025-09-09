@@ -17,5 +17,5 @@ chmod +x simple-interest.sh
 ./simple-interest.sh 1000 5 3
 ## Author
 **zeineb abss** — [@Zeineb0000](https://github.com/Zeineb0000)
-2022 XYZ, Inc.
+2023 XYZ, Inc.
 
